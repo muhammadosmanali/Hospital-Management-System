@@ -1,11 +1,13 @@
-Admin:
-Username: Osman
-Password: Osman_456
+# Credentials to access hospital management system
 
-Doctor:
-Username: Doctor456
-Password: Doctor_456
+**Admin:**
+ - Username: Osman 
+ - Password: Osman_456
 
-Patient:
-Username: Smith125
-Password: Smith_456
+**Doctor:**
+ - Username: Doctor456 
+ - Password: Doctor_456
+
+**Patient:**
+ - Username: Smith125 
+ - Password: Smith_456
